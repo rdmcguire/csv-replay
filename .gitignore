@@ -1,0 +1,4 @@
+*.csv
+*.completed
+nohup.out
+*.gz
